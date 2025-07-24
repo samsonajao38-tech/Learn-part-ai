@@ -1,1 +1,1 @@
-# Learn-part-ai
+# Learn-part-AI-project
