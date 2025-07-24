@@ -1,1 +1,1 @@
-# Learn-part-AI-project
+# Learn-path-AI-project
